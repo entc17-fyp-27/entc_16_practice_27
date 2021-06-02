@@ -13,3 +13,6 @@ print("Sum is: ",add(13,45))
 def sub(a,b):
     return(a-b)
 print("the subtraction is : ",sub(5,3))
+
+def pow(x,y):
+    return x**y
