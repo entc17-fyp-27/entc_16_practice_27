@@ -1,7 +1,9 @@
 def div(num1,num2):
-    return(num1/num2)
+    if(num2!=0):
+        return(num1/num2)
 
-print("The division is:",div(6,2))
+print("The division is:",div(7,2))
+
 def mult(n1,n2):
     m=n1*n2
     return(m)
