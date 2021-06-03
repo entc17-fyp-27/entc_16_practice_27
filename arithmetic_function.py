@@ -15,3 +15,6 @@ def sub(a,b):
 print("the subtraction is : ",sub(5,3))
 
 print ("sarjani")
+
+def findmax(a,b):
+    return max(a,b)
