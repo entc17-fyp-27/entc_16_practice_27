@@ -19,3 +19,6 @@ print("the subtraction is : ",sub(5,3))
 print ("sarjani")
 def pow(x,y):
     return x**y
+
+def findmax(a,b):
+    return max(a,b)
